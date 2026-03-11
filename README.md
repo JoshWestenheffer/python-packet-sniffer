@@ -1,5 +1,8 @@
 # Python Packet Sniffer
 
+# Warning
+This repository is solely for reasearch and learning purposes. This tool performs packet capturing and network analysis. Running this against networks u do not own or have permission for could be illegal.
+
 A Python-based network traffic analysis tool built using Scapy.
 
 The program captures and processes packets in real time, extracting key
@@ -33,11 +36,32 @@ activity as it is detected.
 - Unit tests to ensure functionality and edge cases
 - Tracks suspicious IP addresses and assigns severity levels to incoming packets
 
+## Structure
+python-packet-sniffer/
+├─ main.py           # entrypoint (CLI / GUI)
+├─ sniffer.py        # packet capture & parsing
+├─ detection.py      # scan & rate detection logic
+├─ gui.py            # dashboard
+├─ requirements.txt
+├─ sample_output.txt
+├─ pcaps/            # optional: example PCAPs for testing
+├─ screenshots/
+└─ tests/            # pytest unit tests
+
 ## Why I Built This
 
 This project was created to better understand how network intrusion detection systems detect malicious traffic patterns and to practice implementing real-time analysis using Python.
 
 ## Run It Yourself
+
+### Prerequisites
+  Requires Adminsitor access or elevated access
+  ### Windows Users
+
+Packet capture requires Npcap.  
+If packet sniffing does not work, install it from:
+
+https://npcap.com/
 
 ### Installation
 
@@ -68,3 +92,4 @@ python main.py
 ```
 
 > Note: Packet sniffing may require administrator/root privileges depending on your system.
+
