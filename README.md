@@ -60,13 +60,13 @@ This project was created to better understand how network intrusion detection sy
 ## Run It Yourself
 
 ### Prerequisites
-  Requires Adminsitor access or elevated access
-  ### Windows Users
+Requires administrator or elevated privileges.
 
+### Windows Users
 Packet capture requires Npcap.  
 If packet sniffing does not work, install it from:
 
-https://npcap.com/
+https://npcap.com/ 
 
 ### Installation
 
