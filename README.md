@@ -37,16 +37,16 @@ activity as it is detected.
 - Tracks suspicious IP addresses and assigns severity levels to incoming packets
 
 ## Structure
-python-packet-sniffer/
-├─ main.py           # entrypoint (CLI / GUI)
-├─ sniffer.py        # packet capture & parsing
-├─ detection.py      # scan & rate detection logic
-├─ gui.py            # dashboard
-├─ requirements.txt
-├─ sample_output.txt
-├─ pcaps/            # optional: example PCAPs for testing
-├─ screenshots/
-└─ tests/            # pytest unit tests
+-python-packet-sniffer/
+-main.py           # entrypoint (CLI / GUI)
+-sniffer.py        # packet capture & parsing
+-detection.py      # scan & rate detection logic
+-gui.py            # dashboard
+-requirements.txt 
+-sample_output.txt
+-pcaps/            # optional: example PCAPs for testing
+-screenshots/
+-tests/            # pytest unit tests
 
 ## Why I Built This
 
