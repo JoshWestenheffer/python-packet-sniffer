@@ -9,10 +9,10 @@ behavior such as port scans and denial-of-service activity.
 A lightweight GUI dashboard displays packet data, alerts, and suspicious
 activity as it is detected.
 
-## Example output
+## Example Output
+
 <p align="center">
-  <img src="<img width="1200" height="886" alt="Github Packetsniffer" src="https://github.com/user-attachments/assets/ee90b1e9-4c48-483b-9b3d-bb103cae0f4c" />
-" width="700"/>
+  <img src="https://github.com/user-attachments/assets/ee90b1e9-4c48-483b-9b3d-bb103cae0f4c" width="700"/>
 </p>
 
 ## Features
