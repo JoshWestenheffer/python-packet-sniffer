@@ -11,11 +11,18 @@ activity as it is detected.
 
 ## Example Output
 
+### Live Dashboard
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ee90b1e9-4c48-483b-9b3d-bb103cae0f4c" width="700"/>
+  <img src="https://github.com/user-attachments/assets/291cdc92-7a6d-47fc-8bab-938c790df6d3" width="700" alt="Packet Sniffer GUI"/>
+</p>
+
+### Terminal Output
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac2c7ca1-8841-469c-a5b3-5dec496c3437" width="500" alt="Packet Sniffer Terminal Output"/>
 </p>
 
 ## Features
+
 
 - Detects horizontal port scans (one source probing many devices on the same port)
 - Detects vertical port scans (one source probing many ports on a single device)
