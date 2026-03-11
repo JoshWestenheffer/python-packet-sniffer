@@ -13,7 +13,7 @@ activity as it is detected.
 
 ### Live Dashboard
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/291cdc92-7a6d-47fc-8bab-938c790df6d3" width="700" alt="Packet Sniffer GUI"/>
+  <img src="https://github.com/user-attachments/assets/291cdc92-7a6d-47fc-8bab-938c790df6d3" width="900" alt="Packet Sniffer GUI"/>
 </p>
 
 ### Terminal Output
