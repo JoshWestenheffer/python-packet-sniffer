@@ -1,8 +1,3 @@
-## Warning
-This repository is intended for research and educational purposes only.  
-This tool performs packet capture and network analysis. Running it against
-networks you do not own or do not have permission to monitor may be illegal.
-
 # Python Packet Sniffer
 
 A Python-based network traffic analysis tool built using Scapy.
@@ -13,6 +8,11 @@ behavior such as port scans and denial-of-service activity.
 
 A lightweight GUI dashboard displays packet data, alerts, and suspicious
 activity as it is detected.
+
+## Warning
+This repository is intended for research and educational purposes only.  
+This tool performs packet capture and network analysis. Running it against
+networks you do not own or do not have permission to monitor may be illegal.
 
 ## Example Output
 
