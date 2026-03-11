@@ -37,25 +37,34 @@ activity as it is detected.
 
 This project was created to better understand how network intrusion detection systems detect malicious traffic patterns and to practice implementing real-time analysis using Python.
 
-##Run it yourself
+## Run It Yourself
 
 ### Installation
 
 1. Clone the repository
 
+```bash
 git clone https://github.com/JoshWestenheffer/python-packet-sniffer.git
+```
 
 2. Navigate to the project folder
 
+```bash
 cd python-packet-sniffer
+```
 
 3. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
-## Running the Program
+### Running the Program
 
 Start the packet sniffer:
 
+```bash
 python main.py
+```
+
 > Note: Packet sniffing may require administrator/root privileges depending on your system.
