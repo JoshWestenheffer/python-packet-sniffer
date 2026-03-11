@@ -1,7 +1,9 @@
-# Python Packet Sniffer
+## Warning
+This repository is intended for research and educational purposes only.  
+This tool performs packet capture and network analysis. Running it against
+networks you do not own or do not have permission to monitor may be illegal.
 
-# Warning
-This repository is solely for reasearch and learning purposes. This tool performs packet capturing and network analysis. Running this against networks u do not own or have permission for could be illegal.
+# Python Packet Sniffer
 
 A Python-based network traffic analysis tool built using Scapy.
 
